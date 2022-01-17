@@ -6,20 +6,23 @@ Wall $treet Trading is a stock trading simulator made by basic full stack Flask 
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Necessary Libraries: flask, flask_session, tempfile, werkzeug.exceptions, werkzeug.security
+* flask:    Flask, flash, redirect, rener_template, request, session
+* flask_session:    Session
+* tempfile:    mkdtemp
+* werkzeug.exception:    default_exceptions, HTTPException, InternalServerError
+* werkzeug.security:    check_password_hash, generate_password_hash
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* None.
 
 ### Executing program
 
 * How to run the program
 * Step-by-step bullets
 ```
-code blocks for commands
+flask run
 ```
 
 ## Help
@@ -33,14 +36,11 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Charley Yoshi
-ex. [@charleyoshi](https://charleytsang.com)
+ex. Charley Yoshi  
+ex. [@charleyoshi](https://charleytsang.io)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
