@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Buy
+{% endblock %}
+
+{% block main %}
+    You want to buy {{ shares }} shares of {{ stock_name }} at {{ stock_price }}. It needs ${{ total }}. You have ${{ cash }}.
+{% endblock %}

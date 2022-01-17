@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Buy
+{% endblock %}
+
+{% block main %}
+    <p>
+        Sorry. 
+        {{ shares }} shares of {{ stock_name }} needs a total of {{ total }}. You only have {{ cash }} cash.
+    </p>
+    <a href='buy'>Buy</a> again?
+{% endblock %}

@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+    <p>A share of the {{ stock_name }} ({{ symbol }}) costs {{ stock_price | usd }}.</p>
+    <p>Click here to <a href='buy'>Buy</a><t> or </t><a href='sell'>Sell</a></p>
+{% endblock %}
