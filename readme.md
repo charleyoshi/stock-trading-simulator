@@ -1,12 +1,6 @@
 # Wall $treet Trading
 
-// Simple overview of use/purpose.
-Wall $treet Trading is a stock trading simulator
-
-## Description
-
-// An in-depth paragraph about your project and overview of use.
-Basic full stack Flask Web application. 
+Wall $treet Trading is a stock trading simulator made by basic full stack Flask Web application. 
 
 ## Getting Started
 
@@ -39,8 +33,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Charley Tsang
-ex. [@CharleyTsang](https://charleytsang.com)
+ex. Charley Yoshi
+ex. [@charleyoshi](https://charleytsang.com)
 
 ## Version History
 
