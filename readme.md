@@ -1,7 +1,8 @@
 # Wall $treet Trading
 
-Wall $treet Trading is a stock trading simulator made by basic full stack Flask Web application. <br>
-Blog Walk-through: [Wall $treet Trading - Charley Yoshi](https://charleytsang.io/post.html)
+Blog Walk-through: [Wall $treet Trading - Charley Yoshi](https://charleytsang.io/post.html)<br>
+Wall $treet Trading is a stock trading simulator made by basic full stack Flask Web application. 
+
 
 ## Getting Started
 
